@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs & temp
+*.log
+*.tmp
+/tmp/
+
+# Node (not needed, but just in case)
+node_modules/
+
+# Local server artifacts
+server.log
